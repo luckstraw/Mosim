@@ -7,18 +7,18 @@ Simulation Modeling Using Python
 Follow these steps to execute the program:
 
 1. **Make the code executable then run the program**:
-```bash
-chmod +x run.sh
-```
-```bash
-./run.sh
-```
+    ```bash
+    chmod +x run.sh
+    ```
+    ```bash
+    ./run.sh
+    ```
 
 ## Output:
 
 After running the `./run.sh` you will see the output of 4 files
 
-- *`part_1.py*
+- **`part_1.py`**
     ```bash
     Year 1: Population = 101000
     Year 2: Population = 102010
@@ -32,7 +32,7 @@ After running the `./run.sh` you will see the output of 4 files
     Year 10: Population = 110462
     ```
 
-- *`part_2.py*
+- **`part_2.py`**
     ```bash
     Turning ON air conditioner | Current Temperature: 24°C
     Turning ON air conditioner | Current Temperature: 23°C
@@ -40,14 +40,14 @@ After running the `./run.sh` you will see the output of 4 files
     Temperature stable | Current Temperature: 22°C
     ```
 
-- *`part_3.py*
+- **`part_3.py`**
     ```bash
     Customer Arrival at 11:06:09 PM
     Order Taken at 11:06:10 PM
     Food Preparation Complete at 11:06:12 PM
     Customer Departure at 11:06:17 PM
     ```
-- *`part_4.py*
+- **`part_4.py`**
     ```bash
     Passenger 1 is being served...
     Passenger 1 finished check-in.
