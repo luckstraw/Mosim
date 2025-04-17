@@ -1,6 +1,6 @@
-# Laboratory Activity # 1: Introduction to Modeling and Simulation
+# Laboratory Activity # 1: Exploring Basic Concepts in Modeling and Simulation
 
-Exploring Basic Concepts in Modeling and Simulation
+Introduction to Modeling and Simulation
 
 ## Part A - Conceptual Understanding
 - **Modeling**: Creating a simplified system representation for analysis. Example: Weather forecasting predicts storms.
